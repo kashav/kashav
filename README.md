@@ -1,1 +1,1 @@
-[kashav.ca/about](https://kashav.ca/about)
+I have worked at [Airtable](https://www.airtable.com/), [CircleCI](https://circleci.com/), [Cohere](https://cohere.com/), and [Mozilla](https://www.mozilla.org/en-US/firefox/). I live in Toronto, Canada. Read more about me at [kashav.ca/about](https://kashav.ca/about).
